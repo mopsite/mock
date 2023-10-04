@@ -14,8 +14,8 @@ hero:
       text: 快速上手
       link: /guide/
     - theme: alt
-      text: 在 Gitee 上查看
-      link: https://gitee.com/skewb/mock
+      text: 在 GitHub 上查看
+      link: https://github.com/mopsite/mock
 
 features:
   - icon: ⚓️
@@ -37,4 +37,3 @@ features:
     title: 方便的扩展
     details: 支持扩展数据类型，自定义函数和正则。
 ---
-
