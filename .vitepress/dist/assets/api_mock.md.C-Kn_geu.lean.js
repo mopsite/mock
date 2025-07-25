@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as t,ag as i}from"./chunks/framework.Bb1Gubb8.js";const k=JSON.parse('{"title":"Mock.mock()","description":"","frontmatter":{},"headers":[],"relativePath":"api/mock.md","filePath":"api/mock.md"}'),p={name:"api/mock.md"};function s(r,e,l,d,c,n){return t(),o("div",null,e[0]||(e[0]=[i("",9)]))}const u=a(p,[["render",s]]);export{k as __pageData,u as default};
