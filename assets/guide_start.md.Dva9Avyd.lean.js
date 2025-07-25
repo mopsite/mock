@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ag as t}from"./chunks/framework.Bb1Gubb8.js";const o=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start.md","filePath":"guide/start.md"}'),l={name:"guide/start.md"};function p(e,s,h,k,d,r){return n(),a("div",null,s[0]||(s[0]=[t("",5)]))}const g=i(l,[["render",p]]);export{o as __pageData,g as default};
