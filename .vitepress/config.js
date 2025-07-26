@@ -1,11 +1,13 @@
 import { defineConfig } from 'vitepress'
 
+const baseURL = process.env.BASE_URL || '/mock/'
+
 // https://vitepress.dev/zh/reference/site-config
 export default defineConfig({
-  base: '/mock/',
+  base: baseURL,
   title: 'Mock.js',
   description: '生成随机数据，拦截 Ajax 请求',
-  head: [['link', { rel: 'icon', href: '/mock/logo.svg' }]],
+  head: [['link', { rel: 'icon', href: `${baseURL}logo.svg` }]],
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
